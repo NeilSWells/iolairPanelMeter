@@ -112,6 +112,7 @@ Programming of the board is done with a FT232 USB to TTL Serial adapter set to 5
 Using 3.3v will not work!
 
 Note that the CTS pin of the TF232 is not used.
+![Programming](https://user-images.githubusercontent.com/24658072/197355577-f3d0657e-e0c4-484f-829e-2778e61c64e6.jpg)
 
 
 ## Contact
