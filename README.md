@@ -75,6 +75,7 @@ the calibration numbers may need to be reduced slightly.
 
 Using my Fluke 325 clamp meter to calibrate, my 500A shunt has a calibration number of 406
 
+
 ### Clear()
 Clear the display.
 
