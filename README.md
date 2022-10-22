@@ -151,18 +151,23 @@ Crystal 1 - 16Mhz crystal
 
 DisplayConnector - JST XH 2.54 4-Pin
 
+https://www.aliexpress.com/item/32815799485.html?spm=a2g0o.order_list.0.0.1d831802rd1Fas
+
 Display Connector Cable - 5cm 24 AWG XH2.54 4P Same Direction 
 
-https://www.aliexpress.com/item/4000599744729.html?spm=a2g0o.order_list.0.0.1d831802rd1Fas)
+https://www.aliexpress.com/item/4000599744729.html?spm=a2g0o.order_list.0.0.1d831802rd1Fas
 
 ## Seven Segment Display Carrier
 
 C1 - 0805 10uF
 
+https://www.aliexpress.com/item/32964553793.html?spm=a2g0o.order_list.0.0.1d831802rd1Fas
+
 U1 - Holtek HT16k33-24SOP
 
 or Vinka VK16K33B-24SOP . They are available on AliExpress, be careful not to buy the more common SOP28 version
 
+https://www.aliexpress.com/item/1005004738423851.html?spm=a2g0o.order_list.0.0.1d831802rd1Fas
 
 7 Segment display - 4 Digit, 0.56 inch, Common Cathode, 12 pin
 
