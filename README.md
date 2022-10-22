@@ -125,6 +125,14 @@ Note that the CTS pin of the TF232 is not used.
 
 ![Programming](https://user-images.githubusercontent.com/24658072/197359772-437d15f7-9625-44b8-aa52-71ec670c641e.jpeg)
 
+# Manufacture
+There are two PCBs that make up the panel meter, the main panel and a carrier for the 7 segment display,
+
+Board Manufacture.zip contains the Gerber files to have the boards made. The files are formatted to match the requirements of JLC https://jlcpcb.com/
+
+The main panel zip includes the CSV files needed to have the smd components added at source.
+
+Unfortunately no manufacturer can supply the IC used on the display board so it needs to be hand soldered along with it's associated capacitor. Not too hard if you order a solder stencil at the same time.
 
 ![Boards](https://user-images.githubusercontent.com/24658072/197359983-6b79fd06-d3c4-4280-88e6-9469cef94759.jpeg)
 
