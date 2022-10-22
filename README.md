@@ -1,5 +1,6 @@
 # iolairPanelMeter
 Voltmeter and ammeter design that fits inside a Chi Tai case. As used on Nordhavn boats.
+![Top](https://user-images.githubusercontent.com/24658072/197359806-8b2dcee5-0783-47a6-9445-05b5e5f142cf.jpeg)
 ## Basic code for a voltmeter
 ```sh
 #include <IolairPanelMeter.h>
@@ -112,7 +113,8 @@ The board is programmed as an Arduino Uno using a FT232 USB to TTL Serial adapte
 Using 3.3v will not work!
 
 Note that the CTS pin of the TF232 is not used.
-![Programming](https://user-images.githubusercontent.com/24658072/197355577-f3d0657e-e0c4-484f-829e-2778e61c64e6.jpg)
+
+![Programming](https://user-images.githubusercontent.com/24658072/197359772-437d15f7-9625-44b8-aa52-71ec670c641e.jpeg)
 
 
 ## Contact
