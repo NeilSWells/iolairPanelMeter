@@ -24,7 +24,7 @@ void loop()
 }
 ```
 
-## Basic code for an ammeter
+## Basic code for a 50mV - 500A ammeter
 ```sh
 #include <IolairPanelMeter.h>
 
@@ -35,7 +35,7 @@ int32_t result = 0;
 void setup()
 {
     Panel.begin();
-    Panel.SetCalibration(666);
+    Panel.SetCalibration(400);
 }
 
 
