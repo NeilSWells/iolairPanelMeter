@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map IolairPanelMeter
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+IolairPanelMeter		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+SetCalibration	KEYWORD2
+Clear			KEYWORD2
+SetBrightness	KEYWORD2
+DisplayInteger	KEYWORD2
+DisplayError	KEYWORD2
+GetDcVolts		KEYWORD2	
+GetDcAmps		KEYWORD2
+
