@@ -22,7 +22,7 @@ void loop()
      if ((result > 122) && (result < 148)) Panel.SetBrightness(1); //Set standard brightness if greater than 12.2v and less than 14.8v
      else Panel.SetBrightness(15);
 }
-
+##
 
 ## Functions
     begin()
