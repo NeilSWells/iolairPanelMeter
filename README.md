@@ -151,7 +151,9 @@ Crystal 1 - 16Mhz crystal
 
 DisplayConnector - JST XH 2.54 4-Pin
 
-Display Connector Cable - 5cm 24 AWG XH2.54 4P Same Direction (Search AliExpress https://www.aliexpress.com/item/4000599744729.html?spm=a2g0o.order_list.0.0.1d831802rd1Fas)
+Display Connector Cable - 5cm 24 AWG XH2.54 4P Same Direction 
+
+https://www.aliexpress.com/item/4000599744729.html?spm=a2g0o.order_list.0.0.1d831802rd1Fas)
 
 ## Seven Segment Display Carrier
 
