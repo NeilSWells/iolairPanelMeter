@@ -70,10 +70,9 @@ For AC amps the calibration should be (200,000 / shunt capacity)
 so for a 50mV - 300A shunt the calibration is 666
 for a 50mV - 500A shunt the calibration is 400
 
-Calibrations can be tweaked if needed. For long cable runs from the shunt to the meter
-the calibration numbers may need to be reduced slightly.
+Calibrations can be tweaked if needed.
 
-Using my Fluke 325 clamp meter to calibrate, my 500A shunt has a calibration number of 406
+Using a Fluke 325 clamp meter to calibrate, my 500A shunt has a calibration number of 406
 
 
 ### Clear()
