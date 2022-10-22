@@ -107,7 +107,7 @@ Return the shunt measurment as an integer.
 
 
 # Programming
-Programming of the board is done with a FT232 USB to TTL Serial adapter set to 5v.
+The board is programmed as an Arduino Uno using a FT232 USB to TTL Serial adapter set to 5v.
 
 Using 3.3v will not work!
 
