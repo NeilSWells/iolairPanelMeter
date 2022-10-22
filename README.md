@@ -1,4 +1,4 @@
-# IolairPanelMeter
+# iolairPanelMeter
 Voltmeter and ammeter design that fits inside a Chi Tai case. As used on Nordhavn boats.
 ## Basic code for a voltmeter
 ```sh
