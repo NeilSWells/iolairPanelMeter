@@ -136,6 +136,36 @@ Unfortunately no manufacturer can supply the IC used on the display board so it 
 
 ![Boards](https://user-images.githubusercontent.com/24658072/197359983-6b79fd06-d3c4-4280-88e6-9469cef94759.jpeg)
 
+# Parts
+## Main Board
+
+Connector - MSTBA 2.5/ 6-G-5.08
+
+Serial connector - 5 Pin Single Row Right Angle Female Pin Header 2.54MM
+
+C1 - 10uF, 50v, 5mm diameter, 2mm lead pitch
+
+PSU1 - Recom R.785.0-0.5
+
+Crystal 1 - 16Mhz crystal
+
+DisplayConnector - JST XH 2.54 4-Pin
+
+Display Connector Cable - 5cm 24 AWG XH2.54 4P Same Direction (Search AliExpress https://www.aliexpress.com/item/4000599744729.html?spm=a2g0o.order_list.0.0.1d831802rd1Fas)
+
+## Seven Segment Display Carrier
+
+C1 - 0805 10uF
+
+U1 - Holtek HT16k33-24SOP
+
+or Vinka VK16K33B-24SOP . They are available on AliExpress, be careful not to buy the more common SOP28 version
+
+
+7 Segment display - 4 Digit, 0.56 inch, Common Cathode, 12 pin
+
+https://www.aliexpress.com/item/4000279476347.html?spm=a2g0o.order_list.0.0.1d831802rd1Fas
+
 
 ## Contact
 https://github.com/NeilSWells
