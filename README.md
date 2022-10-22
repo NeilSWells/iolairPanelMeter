@@ -117,7 +117,10 @@ Return the shunt measurment as an integer.
 
 
 # Programming
-The board is programmed as an Arduino Uno using a FT232 USB to TTL Serial adapter set to 5v.
+
+Programming1 are the ICSP pins used to put the initial bootloader onto the ATmega328. Either solder on pins or use PogoPins. Uploading a bootloader only needs to happen once.
+
+Once the boatloader is uploaded, the board is programmed as an Arduino Uno using a FT232 USB to TTL Serial adapter set to 5v.
 
 Using 3.3v will not work!
 
@@ -129,6 +132,8 @@ Note that the CTS pin of the TF232 is not used.
 There are two PCBs that make up the panel meter, the main panel and a carrier for the 7 segment display,
 
 Board Manufacture.zip contains the Gerber files to have the boards made. The files are formatted to match the requirements of JLC https://jlcpcb.com/
+
+Drag the gerber zip into the JLC website. Almost all the defaults that they use are good. The boards should be 1.6mm thick, my preference is for ENIG gold finish. 
 
 The main panel zip includes the CSV files needed to have the smd components added at source.
 
