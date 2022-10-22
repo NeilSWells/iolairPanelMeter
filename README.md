@@ -106,6 +106,13 @@ Return the measured voltage multiplied by 10. 12.8v is returned as 128
 Return the shunt measurment as an integer.
 
 
+##Programming
+Programming of the board is done with a FT232 USB to TTL Serial adapter set to 5v.
+
+Using 3.3v will not work!
+
+Note that the CTS pin of the TF232 is not used.
+
 
 ## Contact
 https://github.com/NeilSWells
