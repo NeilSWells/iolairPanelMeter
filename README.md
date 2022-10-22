@@ -178,6 +178,7 @@ https://www.aliexpress.com/item/1005004738423851.html?spm=a2g0o.order_list.0.0.1
 
 https://www.aliexpress.com/item/4000279476347.html?spm=a2g0o.order_list.0.0.1d831802rd1Fas
 
+Don't add the 7 segment display until all the other components are soldered on the other side.
 
 ## Contact
 https://github.com/NeilSWells
