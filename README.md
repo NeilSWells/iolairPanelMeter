@@ -1,6 +1,15 @@
 # iolairPanelMeter
 Voltmeter and ammeter design that fits inside a Chi Tai case. As used on Nordhavn boats.
+
+### Top
 ![Top](https://user-images.githubusercontent.com/24658072/197359806-8b2dcee5-0783-47a6-9445-05b5e5f142cf.jpeg)
+
+### Front
+![Front](https://user-images.githubusercontent.com/24658072/197359959-ebc9c957-7db6-4506-979e-60a78f7a8a27.jpeg)
+
+### Back
+![Back](https://user-images.githubusercontent.com/24658072/197359964-4637b575-6289-4332-b7ec-6d419240cf4f.jpeg)
+
 ## Basic code for a voltmeter
 ```sh
 #include <IolairPanelMeter.h>
@@ -115,6 +124,9 @@ Using 3.3v will not work!
 Note that the CTS pin of the TF232 is not used.
 
 ![Programming](https://user-images.githubusercontent.com/24658072/197359772-437d15f7-9625-44b8-aa52-71ec670c641e.jpeg)
+
+
+![Boards](https://user-images.githubusercontent.com/24658072/197359983-6b79fd06-d3c4-4280-88e6-9469cef94759.jpeg)
 
 
 ## Contact
