@@ -180,6 +180,14 @@ https://www.aliexpress.com/item/4000279476347.html?spm=a2g0o.order_list.0.0.1d83
 
 Don't add the 7 segment display until all the other components are soldered on the other side.
 
+
+## PCB Design Files
+
+The design files can be edited using KiCad V6, an excellent free design package.
+
+https://www.kicad.org/
+
+
 ## Contact
 https://github.com/NeilSWells
 
