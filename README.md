@@ -191,7 +191,7 @@ https://www.kicad.org/
 
 
 ## Contact
-https://github.com/NeilSWells
+If you have any questions or suggestions, email NeilSWells@gmail.com
 
 The use of this design is entirely at your own risk.
 
