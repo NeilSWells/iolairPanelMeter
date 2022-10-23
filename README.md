@@ -1,5 +1,5 @@
 # iolairPanelMeter
-Voltmeter and ammeter design that fits inside a Chi Tai case. As used on Nordhavn boats.
+Voltmeter and ammeter design that fits inside a Chi Tai case.
 
 ```
 Supply - 7-32v DC
