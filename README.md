@@ -1,6 +1,14 @@
 # iolairPanelMeter
 Voltmeter and ammeter design that fits inside a Chi Tai case. As used on Nordhavn boats.
 
+```
+Supply - 7-32v DC
+Voltmeter range - 0 - 36v DC
+Ammeter - any shunt with a +-50mV output (max +-80mV)
+Protection - 100mA fuses on power supply and both sense inputs.
+Power consuption - 0.18w at standard brightness,0.36w when super bright.
+```
+
 ### Top
 ![Top](https://user-images.githubusercontent.com/24658072/197359806-8b2dcee5-0783-47a6-9445-05b5e5f142cf.jpeg)
 
