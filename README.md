@@ -79,10 +79,8 @@ void loop()
 
 ## Notes
 
-### SetCalibration(uint16_t);
-Calibrate the reading
-
-For DC volts the calibration should be 800
+``` SetCalibration(uint16_t)```
+Calibrate the reading. For DC volts the calibration should be 800
 
 For AC amps the calibration should be (200,000 / shunt capacity)
 so for a 50mV - 300A shunt the calibration is 666
@@ -93,16 +91,16 @@ Calibrations can be tweaked if needed.
 Using a Fluke 325 clamp meter to calibrate, my 500A shunt has a calibration number of 406
 
 
-### Clear()
+``` Clear()```
 Clear the display.
 
-### SetBrightness(uint8_t)
+``` SetBrightness(uint8_t)```
 Set the brightness level of the display.
 The range is 0 to 15.
 A level of 1 matches my existing displays.
 
 
-### DisplayInteger(int32_t, bool)
+``` DisplayInteger(int32_t, bool)```
 int32_t is the integer to display. If the number is outside of the range -999 to 999
 then ERR is shown.
 
@@ -112,7 +110,7 @@ All values are integers so to display 12.8 the command is DisplayInteger(128, tr
 To display 128 the command is DisplayInteger(128, false)
 
 
-### DisplayError()
+``` DisplayError()```
 Show ERR on the display
 
 
