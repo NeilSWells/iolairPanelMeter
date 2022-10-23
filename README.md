@@ -191,6 +191,8 @@ https://www.kicad.org/
 ## Contact
 https://github.com/NeilSWells
 
+The use of this design is entirely at your own risk.
+
 ## License
 
 MIT
