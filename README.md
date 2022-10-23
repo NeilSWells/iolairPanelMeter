@@ -116,17 +116,18 @@ To display 128 the command is DisplayInteger(128, false)
 Show ERR on the display
 
 
-### GetDcVolts()
+``` GetDcVolts()```
 Return the measured voltage multiplied by 10. 12.8v is returned as 128
 
-
-### GetDcAmps()
+``` GetDcAmps()```
 Return the shunt measurment as an integer.
 
 
 # Programming
 
 Programming1 are the ICSP pins used to put the initial bootloader onto the ATmega328. Either solder on pins or use PogoPins. Uploading a bootloader only needs to happen once.
+
+https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP
 
 Once the boatloader is uploaded, the board is programmed as an Arduino Uno using a FT232 USB to TTL Serial adapter set to 5v.
 
