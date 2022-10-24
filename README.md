@@ -182,12 +182,15 @@ Connector - MSTBA 2.5/ 6-G-5.08
 
 Serial connector - 5 Pin Single Row Right Angle Female Pin Header 2.54MM
 
+https://www.aliexpress.com/item/1005004359055976.html?spm=a2g0o.productlist.main.57.7bfb11b0XPKc1e&algo_pvid=265b342e-a6a2-4457-8f7a-e0cb992ca9f1&algo_exp_id=265b342e-a6a2-4457-8f7a-e0cb992ca9f1-28&pdp_ext_f=%7B%22sku_id%22%3A%2212000028895783815%22%7D&pdp_npi=2%40dis%21GBP%211.06%211.05%21%21%211.58%21%21%40210212c016666425916368740d077f%2112000028895783815%21sea&curPageLogUid=G6dt4OWggIbB
+
 C1 - 10uF, 50v, 5mm diameter, 2mm lead pitch
+
+https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-EB1H100S/512997
 
 PSU1 - Recom R.785.0-0.5
 
 https://www.digikey.com/en/products/detail/recom-power/R-785-0-0-5/2256217
-https://uk.rs-online.com/web/p/switching-regulators/5328050
 
 Crystal 1 - 16Mhz crystal
 
