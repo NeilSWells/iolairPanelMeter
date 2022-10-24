@@ -194,7 +194,7 @@ C1 - 10uF, 50v, 5mm diameter, 2mm lead pitch
 
 https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-EB1H100S/512997
 
-PSU1 - Recom R.785.0-0.5
+PSU1 - Recom R-785.0-0.5
 
 https://www.digikey.com/en/products/detail/recom-power/R-785-0-0-5/2256217
 
