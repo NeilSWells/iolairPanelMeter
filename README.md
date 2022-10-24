@@ -190,6 +190,8 @@ https://uk.rs-online.com/web/p/switching-regulators/5328050
 
 Crystal 1 - 16Mhz crystal
 
+https://www.digikey.com/en/products/detail/iqd-frequency-products/LFXTAL027945BULK/10106622?s=N4IgTCBcDaIDIDEAaAVAgnADGA7ATgBYBWAIQFcAbAaxAF0BfIA
+
 DisplayConnector - JST XH 2.54 4-Pin
 
 https://www.aliexpress.com/item/32815799485.html?spm=a2g0o.order_list.0.0.1d831802rd1Fas
