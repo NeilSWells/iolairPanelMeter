@@ -81,13 +81,13 @@ void setup()
 
 void loop()
 {
-    for (uint8_t i = 0; i < 10; i++)
+    for (int8_t i = 0; i < 10; i++)
     {
         Panel.DisplayInteger(i * 111, false);
         Panel.SetBrightness(i);
         delay(1000);
     }
-    for (uint8_t i = -9; i < 1; i++)
+    for (int8_t i = -9; i < 1; i++)
     {
         Panel.DisplayInteger(i * 111, false);
         Panel.SetBrightness(15);
