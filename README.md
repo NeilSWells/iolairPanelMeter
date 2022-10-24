@@ -89,7 +89,7 @@ void loop()
     }
     for (int8_t i = -9; i < 1; i++)
     {
-        Panel.DisplayInteger(i * 111, false);
+        Panel.DisplayInteger(i * 111, true);
         Panel.SetBrightness(15);
         delay(1000);
     }
