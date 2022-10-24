@@ -186,6 +186,7 @@ C1 - 10uF, 50v, 5mm diameter, 2mm lead pitch
 
 PSU1 - Recom R.785.0-0.5
 
+https://www.digikey.com/en/products/detail/recom-power/R-785-0-0-5/2256217
 https://uk.rs-online.com/web/p/switching-regulators/5328050
 
 Crystal 1 - 16Mhz crystal
