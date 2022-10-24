@@ -67,6 +67,35 @@ void loop()
 }
 ```
 
+## Test code to cycle the display
+```sh
+#include <IolairPanelMeter.h>
+
+IolairPanelMeter Panel;
+
+void setup()
+{
+    Panel.begin();
+}
+
+
+void loop()
+{
+    for (uint8_t i = 0; i < 10; i++)
+    {
+        Panel.DisplayInteger(i * 111, false);
+        Panel.SetBrightness(i);
+        delay(1000);
+    }
+    for (uint8_t i = -9; i < 1; i++)
+    {
+        Panel.DisplayInteger(i * 111, false);
+        Panel.SetBrightness(15);
+        delay(1000);
+    }
+}
+```
+
 ## Functions
     begin()
     SetCalibration(uint16_t);
