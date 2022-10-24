@@ -186,6 +186,10 @@ Serial connector - 5 Pin Single Row Right Angle Female Pin Header 2.54MM
 
 https://www.aliexpress.com/item/1005004359055976.html?spm=a2g0o.productlist.main.57.7bfb11b0XPKc1e&algo_pvid=265b342e-a6a2-4457-8f7a-e0cb992ca9f1&algo_exp_id=265b342e-a6a2-4457-8f7a-e0cb992ca9f1-28&pdp_ext_f=%7B%22sku_id%22%3A%2212000028895783815%22%7D&pdp_npi=2%40dis%21GBP%211.06%211.05%21%21%211.58%21%21%40210212c016666425916368740d077f%2112000028895783815%21sea&curPageLogUid=G6dt4OWggIbB
 
+Programming1 - 2x3P 2.54mm Double Row Straight Female 6 Pin Header Socket. On the pictures I used male pins but on reflection female is probably better.
+
+https://www.aliexpress.com/item/1005004209994934.html?spm=a2g0o.productlist.main.53.572e2043zlW8sw&algo_pvid=a05b52f4-6a6d-4096-9989-64749e905f37&aem_p4p_detail=20221024132210682855019617080000820094&algo_exp_id=a05b52f4-6a6d-4096-9989-64749e905f37-26&pdp_ext_f=%7B%22sku_id%22%3A%2212000028484862390%22%7D&pdp_npi=2%40dis%21GBP%210.75%210.75%21%21%211.87%21%21%4021227d8316666429301275168d074f%2112000028484862390%21sea&curPageLogUid=yDPEOnpsfxnA&ad_pvid=20221024132210682855019617080000820094_27&ad_pvid=20221024132210682855019617080000820094_27
+
 C1 - 10uF, 50v, 5mm diameter, 2mm lead pitch
 
 https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-EB1H100S/512997
