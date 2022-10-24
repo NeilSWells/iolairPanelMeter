@@ -144,6 +144,9 @@ Unfortunately no manufacturer can supply the IC used on the display board so it 
 ![Boards](https://user-images.githubusercontent.com/24658072/197359983-6b79fd06-d3c4-4280-88e6-9469cef94759.jpeg)
 
 # Parts
+
+As well as the parts that come on the partially populated board, you will also need:
+
 ## Main Board
 
 Connector - MSTBA 2.5/ 6-G-5.08
