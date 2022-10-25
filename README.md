@@ -168,6 +168,10 @@ Drag the gerber zip into the JLC website. Almost all the defaults that they use 
 
 The main panel zip includes the CSV files needed to have the smd components added at source.
 
+This PDF shows the JLC website settings to order the main board. Note that the JLC website can be a bit flaky. If something doesn't work, you may need to close the browser and start again. Sometimes the Gerbers don't upload properly and often the page that shows after the SMDs have been rendered throws a System Error.
+
+[PCB Order & Online PCB Quote & PCB Assembly Quote - JLCPCB.pdf](https://github.com/NeilSWells/iolairPanelMeter/files/9863375/PCB.Order.Online.PCB.Quote.PCB.Assembly.Quote.-.JLCPCB.pdf)
+
 Unfortunately no manufacturer can supply the IC used on the display board so it needs to be hand soldered along with it's associated capacitor. Not too hard if you order a solder stencil at the same time. You will need SMD solder, I used ChipQuik SMD291SNLT4. Remember to keep it in the fridge to extend the shelf life.
 
 ![Boards](https://user-images.githubusercontent.com/24658072/197359983-6b79fd06-d3c4-4280-88e6-9469cef94759.jpeg)
@@ -290,4 +294,4 @@ MIT
 
 ![image](https://user-images.githubusercontent.com/24658072/197385121-8fc22529-fee2-410b-8cf7-33bfc2d290cb.png)
 
-[PCB Order & Online PCB Quote & PCB Assembly Quote - JLCPCB.pdf](https://github.com/NeilSWells/iolairPanelMeter/files/9863369/PCB.Order.Online.PCB.Quote.PCB.Assembly.Quote.-.JLCPCB.pdf)
+
