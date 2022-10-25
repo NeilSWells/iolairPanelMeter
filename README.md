@@ -290,3 +290,4 @@ MIT
 
 ![image](https://user-images.githubusercontent.com/24658072/197385121-8fc22529-fee2-410b-8cf7-33bfc2d290cb.png)
 
+[PCB Order & Online PCB Quote & PCB Assembly Quote - JLCPCB.pdf](https://github.com/NeilSWells/iolairPanelMeter/files/9863369/PCB.Order.Online.PCB.Quote.PCB.Assembly.Quote.-.JLCPCB.pdf)
