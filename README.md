@@ -228,6 +228,47 @@ https://www.aliexpress.com/item/4000279476347.html?spm=a2g0o.order_list.0.0.1d83
 
 Don't add the 7 segment display until all the other components are soldered on the other side.
 
+## Assembly
+
+### Display board
+
+Start by carefully snapping the mousebite perforations that hold the two support legs to the display board. Using needle nose (long nose) pliers helps. If there are rough edges on the bottom of the display board these can be removed with a sharp knife. Otherwise they will stop the board from seating properly on the main pcb.
+
+Solder the two SMD components U1 and C1.
+
+Add the display connector on the same side. Make sure it's the right way up. Snip off any excess on the connector pins.
+
+Add the 7 segment display to the other side. The decimal points should be adjacent to the little tab sticking out from the base of the board.
+
+### Main board
+
+Start with the crystal. There is no correct way around.
+
+Add the six pin socket for Programming1.
+
+If you're making a lot of boards, the alternative is to leave Programming1 empty and use one of these to make the contacts while you put the bootloader on: (6 pin, double row, 2.54mm)
+
+https://www.aliexpress.com/item/1005002713845793.html?spm=a2g0o.order_list.0.0.42b618023tyW8I
+
+Add the display connector. Again make sure that it's the correct way around.
+
+At this point the board can be bootloaded and programmed. You may want to do that now before adding C1 and PSU1 since they are expensive parts and only used when the board is powered from the boat or test battery. During programming, the board is powered by the bootloading Arduino or by the FT232 programmer. 
+
+Temporarily connect the display.
+
+Add the bootloader.
+
+Add the test program. Don't forget to add the IolairPanelMeter library to your Arduino environment before uploading. If you're new to Arduino I can walk you through this. Finding the right COM port can be tricky. In Arduino, take a note of the available ports before plugging in the FT232.
+
+If everything works, the display will cycle from 000 to 999 getting brighter as it goes. It then cycles from -99.9 to 00.0 at full brightness.
+
+Add C1 - the orientation matters. The negative stripe on the side of the capacitor should line up with the white marked half of C1 on the board (Opposite side to the Iolair logo)
+
+Add PSU1 - again, orientation matters. It should fit within the white rectangle.
+
+Test again.
+
+If everything works, use hot melt glue to assemble the display panel to the main panel using the two supports that were removed from the display board at the start.
 
 ## PCB Design Files
 
