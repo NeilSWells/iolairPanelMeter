@@ -246,6 +246,8 @@ Start with the crystal. There is no correct way around.
 
 Add the six pin socket for Programming1.
 
+Add the five pin angled socket for Serial1.
+
 If you're making a lot of boards, the alternative is to leave Programming1 empty and use one of these to make the contacts while you put the bootloader on: (6 pin, double row, 2.54mm)
 
 https://www.aliexpress.com/item/1005002713845793.html?spm=a2g0o.order_list.0.0.42b618023tyW8I
