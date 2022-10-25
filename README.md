@@ -238,7 +238,7 @@ Solder the two SMD components U1 and C1.
 
 Add the display connector on the same side. Make sure it's the right way up. Snip off any excess on the connector pins.
 
-Add the 7 segment display to the other side. The decimal points should be adjacent to the little tab sticking out from the base of the board.
+Add the 7 segment display to the other side. The decimal points should be adjacent to the little tab sticking out from the base of the board. Make sure that the display is parallel to the white rectangle on the PCB. I lightly solder one central pin to tack the part in place. You can then hold the board and align the part by briefly re-melting the soldered pin. Only once you're happy with the alignment, solder the rest of the pins. This technique works well for the rest of the multi pin components.
 
 ### Main board
 
