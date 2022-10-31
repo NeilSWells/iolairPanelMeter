@@ -213,7 +213,7 @@ https://www.aliexpress.com/item/32815799485.html?spm=a2g0o.order_list.0.0.1d8318
 
 Display Connector Cable - 5cm 24 AWG XH2.54 4P Same Direction 
 
-https://www.aliexpress.com/item/4000599744729.html?spm=a2g0o.order_list.0.0.1d831802rd1Fas
+https://www.aliexpress.com/item/1005004747499668.html?spm=a2g0o.productlist.main.55.1d1f418crd2mfE&algo_pvid=b452fb6a-b73f-45ab-90b4-84cb93fe472b&algo_exp_id=b452fb6a-b73f-45ab-90b4-84cb93fe472b-27&pdp_ext_f=%7B%22sku_id%22%3A%2212000030326171100%22%7D&pdp_npi=2%40dis%21GBP%215.06%215.06%21%21%212.66%21%21%40210212c016672543608578276d077f%2112000030326171100%21sea&curPageLogUid=zbJVlHzxNxyL
 
 ## Seven Segment Display Carrier
 
@@ -273,7 +273,7 @@ Add PSU1 - again, orientation matters. It should fit within the white rectangle.
 
 Test again.
 
-If everything works, use hot melt glue to assemble the display panel to the main panel using the two supports that were removed from the display board at the start.
+If everything works, remove the display cable and then use a hot melt glue to assemble the display panel to the main panel using the two supports that were removed from the display board at the start. Reattach the display cable once the glue has fully cooled.
 
 Make sure that the protective film has been removed from the seven segment display.
 
