@@ -1,5 +1,5 @@
 # iolairPanelMeter
-Voltmeter and ammeter design that fits inside a Chi Tai case.
+DC Voltmeter and DC Ammeter design that fits inside a Chi Tai case.
 
 ```
 Supply - 7-32v DC
@@ -18,7 +18,7 @@ Power consuption - 0.18w at standard brightness,0.36w when super bright.
 ### Back
 ![Back](https://user-images.githubusercontent.com/24658072/197359964-4637b575-6289-4332-b7ec-6d419240cf4f.jpeg)
 
-## Basic code for a voltmeter
+## Basic code for a DC voltmeter
 ```sh
 #include <IolairPanelMeter.h>
 
@@ -43,7 +43,7 @@ void loop()
 // For a 24v boat, the 122 and 148 above should be 244 and 296 assuming you want to alarm at or below 24.4v and at or above 29.6v
 ```
 
-## Basic code for a 50mV - 500A ammeter
+## Basic code for a 50mV - 500A DC ammeter
 ```sh
 #include <IolairPanelMeter.h>
 
