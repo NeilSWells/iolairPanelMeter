@@ -181,6 +181,8 @@ Unfortunately no manufacturer can supply the IC used on the display board so it 
 
 As well as the parts that come on the partially populated board, you will also need:
 
+Irritatingly, AliExpress seem to keep changing the links to the products. Email me if a link doesn't work and you're not sure of the product.
+
 ## Main Board
 
 Connector - MSTBA 2.5/ 6-G-5.08
