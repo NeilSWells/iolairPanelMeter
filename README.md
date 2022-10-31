@@ -40,6 +40,7 @@ void loop()
      if ((result > 122) && (result < 148)) Panel.SetBrightness(1);
      else Panel.SetBrightness(15);
 }
+// For a 24v boat, the 122 and 148 above should be 244 and 296 assuming you want to alarm at or below 24.4v and at or above 29.6v
 ```
 
 ## Basic code for a 50mV - 500A ammeter
