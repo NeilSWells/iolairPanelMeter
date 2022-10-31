@@ -275,6 +275,10 @@ Test again.
 
 If everything works, use hot melt glue to assemble the display panel to the main panel using the two supports that were removed from the display board at the start.
 
+Make sure that the protective film has been removed from the seven segment display.
+
+While you have the Chi Tai case open, it's worth checking the transparent red perpex. On all of my meters, the protective film was left on the inside of the perspex. Over time this partially released leaving air pockets that made the display look fuzzy and dull.
+
 ## PCB Design Files
 
 The design files can be edited using KiCad V6, an excellent free design package.
