@@ -54,7 +54,7 @@ int32_t result = 0;
 void setup()
 {
     Panel.begin();
-    Panel.SetCalibration(400);
+    Panel.SetCalibration(400); //This is the calibration for a 500A ammeter see notes below
 }
 
 
