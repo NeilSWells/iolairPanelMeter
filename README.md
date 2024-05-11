@@ -1,4 +1,12 @@
+The project has been developed into a commercially available product
+
+Completed AC and DC boards are availalbe at 
+
+# https://nordybits.com/
+
+
 # iolairPanelMeter
+
 DC Voltmeter and DC Ammeter design that fits inside a Chi Tai case.
 
 ```
